@@ -1,8 +1,7 @@
 # Fork si quieren aportar al proyecto.
 
 **Nota**
-> 🛠 Mejoras contantes, cada 15.
-> Versión Demo, puedo ver errores.
+> 🛠 Mejoras contantes, cada 15. Versión demo, puedo ver errores.
 
 1. Abrir Sublime text
 2. Preferences > Browse Packages
