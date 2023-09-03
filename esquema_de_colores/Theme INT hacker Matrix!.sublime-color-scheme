@@ -1,0 +1,121 @@
+{
+    // Nombre del esquema de colores personalizado
+    "name": "Theme INT hacker Matrix!",
+    "author": "Ale-int",
+    
+    // Definición de variables para colores
+    "variables": {
+        "background": "black",    // Fondo general
+        "text": "#00ff00",        // Color del texto normal
+        "keyword": "#00ff00",         // Color de las palabras clave
+        "string": "green",       // Color de las cadenas de texto
+        "comment": "#777",         // Color de los comentarios
+        "numericLiteral": "green",  // Color para los literales numéricos
+        "className": "green",        // Color para nombres de clases
+        "variableName": "green",   // Color para nombres de variables
+        "objectName": "green",      // Color para nombres de objetos
+        "operator": "#00ff00",        // Color para los operadores
+        "preprocessorDirective": "green", // Color para las directivas del preprocesador
+        "codeDelimiters": "#00ff00", // Color para la agrupación de código
+        "errorHighlight": "red",      // Color para resaltar errores
+        "warningHighlight": "red",  // Color para resaltar advertencias
+        "customFunction": "#00ff00", // Color para las funciones personalizadas
+        // HTML
+        "tag": "green", // Color para etiquetas HTML
+        "attribute": "green", // Color para atributos
+        "attributeValue": "green", // Color para valores de atributos
+        "textContent": "#00ff00" // Color para el contenido de las etiquetas HTML
+    },
+    
+    // Configuración global de colores
+    "globals": {
+        "foreground": "var(text)", // Color del texto principal
+        "background": "var(background)", // Fondo principal
+        
+        // Cursor intermitente
+        "caret": "#FF5733",
+        
+        // Resaltado de la línea actual
+        "lineHighlight": "#F0F0F0",
+        
+        // Color de fondo para el texto seleccionado
+        "selection": "#333"
+    },
+    
+    // Reglas de estilo para diferentes elementos
+    "rules": [
+        // Esto seria cosas, que todo los lenguajes deben tener.
+        {
+            // Regla para palabras clave
+            "scope": "keyword",
+            "foreground": "var(keyword)"
+        },
+        {
+            // Regla para cadenas de texto
+            "scope": "string",
+            "foreground": "var(string)"
+        },
+        {
+            // Regla para comentarios
+            "scope": "comment",
+            "foreground": "var(comment)"
+        },
+        {
+            "scope": "constant.numeric", // Alcance para literales numéricos
+            "foreground": "var(numericLiteral)" // Aplicar el color a los literales numéricos
+        },
+        {
+            "scope": "variable", // Alcance para nombres de variables
+            "foreground": "var(variableName)" // Aplicar el color a los nombres de variables
+        },
+        {
+            "scope": "entity.name.class", // Alcance para nombres de clases
+            "foreground": "var(className)" // Aplicar el color a los nombres de clases
+        },
+        {
+            "scope": "variable.instance", // Alcance para nombres de objetos
+            "foreground": "var(objectName)" // Aplicar el color a los nombres de objetos
+        },
+        {
+            "scope": "keyword.operator", // Alcance para operadores
+            "foreground": "var(operator)" // Aplicar el color a los operadores
+        },
+        {
+            "scope": "keyword.control.directive", // Alcance para las directivas del preprocesador
+            "foreground": "var(preprocessorDirective)" // Aplicar el color a las directivas del preprocesador
+        },
+        {
+            "scope": ["punctuation.definition.block", "punctuation.definition.group"], // Alcances para caracteres de agrupación
+            "foreground": "var(codeDelimiters)" // Aplicar el color a la agrupación de código
+        },
+        {
+            "scope": "keyword.error", // Alcance para errores
+            "foreground": "var(errorHighlight)" // Aplicar el color a los errores
+        },
+        {
+            "scope": "keyword.warning", // Alcance para advertencias
+            "foreground": "var(warningHighlight)" // Aplicar el color a las advertencias
+        },
+        {
+            "scope": "entity.name.function.custom", // Alcance para funciones personalizadas
+            "foreground": "var(customFunction)" // Aplicar el color a las funciones personalizadas
+        },
+        // HTML
+        {
+            "scope": "keyword", // Alcance para etiquetas HTML
+            "foreground": "var(tag)" // Aplicar el color a las etiquetas HTML
+        },
+        {
+            "scope": "entity.other.attribute-name", // Alcance para atributos
+            "foreground": "var(attribute)" // Aplicar el color a los atributos
+        },
+        {
+            "scope": "string.quoted.double", // Alcance para valores de atributos
+            "foreground": "var(attributeValue)" // Aplicar el color a los valores de atributos
+        },
+        {
+            "scope": "text.html", // Alcance para el contenido de las etiquetas HTML
+            "foreground": "var(textContent)" // Aplicar el color al contenido de las etiquetas HTML
+        }   
+    ]
+}
