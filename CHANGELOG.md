@@ -69,3 +69,17 @@ Mejoras
 Correcciones de errores
 
 - Se cambio el nombre al archivo, esquema de colores.
+
+### [Versión Demo-0.2.4] - 4/9/23
+
+Cambios principales
+
+- 
+
+Mejoras
+
+- 
+
+Correcciones de errores
+
+- Se movie el esquema de colores error al usarlo.
