@@ -55,3 +55,17 @@ Mejoras
 Correcciones de errores
 
 - 
+
+### [Versión Demo-0.2.3] - 4/9/23
+
+Cambios principales
+
+- 
+
+Mejoras
+
+- 
+
+Correcciones de errores
+
+- Se cambio el nombre al archivo, esquema de colores.
