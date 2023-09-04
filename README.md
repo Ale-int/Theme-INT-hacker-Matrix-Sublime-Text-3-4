@@ -1,31 +1,25 @@
-# Fork si quieren aportar al proyecto.
+# INT Hacker Matrix Theme for Sublime Text 3/4
 
-**Nota**
-> 🛠 Mejoras contantes, cada 15. Versión demo, puedo ver errores.
+## Fork if you want to contribute to the project.
 
-1. Abrir Sublime text
-2. Preferences > Browse Packages
-3. Packages/
-3. Pegar la carpeta.
+**Note**
+> 🛠 Constant improvements, with every 15th version of the Demo, you may encounter some errors.
 
-## Uso 💡
+1. Open Sublime Text.
+2. Preferences > Browse Packages.
+3. Go to the "Packages/" directory.
+3. Paste the theme folder.
 
-1. Preferences > Select Color Scheme > Theme INT hacker Matrix! 
+## How to Use 💡
 
-## Commits y Contribuidores
-
-| Aportes | Nombre   		|
-|--------|------------------|
-| 1      | Ale-int  		|
-
-```
-	1  Ale-int
-
-```
+1. Preferences > Select Color Scheme > INT Hacker Matrix Theme!
 
 ## License
 
-Mit
+- MIT License.
+
 Copyright (c) 2023 Ale-int
 
-### Grasias por Usar el producto ✨
+### Thank You for Using Our Product ✨
+
+[GitHub Repository](https://github.com/Ale-int/Theme-INT-hacker-Matrix-Sublime-Text-3-4)

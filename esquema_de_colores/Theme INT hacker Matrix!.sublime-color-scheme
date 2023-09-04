@@ -14,7 +14,7 @@
         "className": "green",        // Color para nombres de clases
         "variableName": "green",   // Color para nombres de variables
         "objectName": "green",      // Color para nombres de objetos
-        "operator": "#00ff00",        // Color para los operadores
+        "operator": "green",        // Color para los operadores
         "preprocessorDirective": "green", // Color para las directivas del preprocesador
         "codeDelimiters": "#00ff00", // Color para la agrupación de código
         "errorHighlight": "red",      // Color para resaltar errores

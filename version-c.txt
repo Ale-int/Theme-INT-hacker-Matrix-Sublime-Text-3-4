@@ -1,0 +1,89 @@
+EN:
+Version control X.Y.Z
+1.2.3
+
+1 > Major version change / (major change)
+2 > Enhancements to existing things / (improvements to existing things)
+3 > Revision version / (patches or fixes)
+
+Commits:
+
+*Alpha-1.0.0
+*Beta-2.0.0
+*Rc-3.0.0
+*snapshot-2023-08-02-4.0.0
+Year - Month - Day
+*4.0.0
+
+There can be commits:
+
+From snapshot
+BEFORE: snapshot-2023-9-3-4.0.0
+The final version with everything would be 4.0.0
+
+Rules:
+
+Explicit content is not allowed.
+Help method, only with fork in case you want to contribute something.
+Processes:
+
+Demo: It is an abbreviation for "demonstration." It is used to refer to a trial or sample version of something, such as software or a product, that allows people to see how it works before buying or using the full version. It's a way to try something before making a final decision.
+
+Alpha: An internal Alpha version is released for a group of internal testers, such as the development team or a select group of close users. This version may contain incomplete features and known bugs.
+
+Beta: After fixing bugs and improving the software based on feedback from the Alpha phase, a Beta version is released to a broader group of external testers. These testers can be volunteers or members of the community interested in testing the software before its official release.
+
+Release Candidate (RC): Once the Beta version is considered stable enough and critical issues have been addressed, an RC version can be released. This is a version very close to the final version and provides an opportunity for end-users to test it in an environment closer to the definitive version.
+
+Stable Version (Release): Finally, after making all necessary corrections and ensuring that the RC version is solid, the stable version is officially released (e.g., "4.0.0").
+
+-------------------------------------------------------------------------------------------------
+
+ES:
+El control de versiones X.Y.Z
+1.2.3
+
+1 > Versión principal cambio mayor / (cambio mayor)
+2 > Mejorar a las cosas exitentes / (mejoras a cosas existentes)
+3 > Versión de revición / (parches o correcciones)
+
+
+-----------
+
+Commits:
+
+*Alpha-1.0.0
+*Beta-2.0.0
+*Rc-3.0.0
+*snapshot-2023-08-02-4.0.0
+Año - Mes - Dia
+*4.0.0
+
+----------------------------------------
+
+Puede haber commits: 
+
+De snapshot
+ANTES: snapshot-2023-9-3-4.0.0
+La versión final ya con todo seria 4.0.0
+
+----------------------------------------------
+
+Reglas:
+
+- Nose permite contenido explicito.
+- Metodo de ayuda, solo con fork en caso que quiera aportar algo.
+
+--------------------------------------------------
+
+Procesos:
+
+Demo: es una abreviatura de "demostración". Se utiliza para referirse a una versión de prueba o muestra de algo, como un software o producto, que permite a las personas ver cómo funciona antes de comprarlo o usar la versión completa. Es una manera de probar algo antes de tomar una decisión final.
+
+Alpha: Se lanza una versión Alpha interna para un grupo de probadores internos, como el equipo de desarrollo o un grupo selecto de usuarios cercanos. Esta versión puede contener funcionalidades incompletas y errores conocidos.
+
+Beta: Luego de corregir los errores y mejorar el software en función de la retroalimentación de la fase Alpha, se lanza una versión Beta a un grupo más amplio de probadores externos. Estos probadores pueden ser usuarios voluntarios o miembros de la comunidad interesados en probar el software antes de su lanzamiento oficial.
+
+Release Candidate (RC): Una vez que se considera que la versión Beta es lo suficientemente estable y se han abordado los problemas más críticos, se puede lanzar una versión RC. Esta es una versión muy cercana a la versión final, y es una oportunidad para que los usuarios finales la prueben en un entorno más cercano a la versión definitiva.
+
+Versión estable (Release): Finalmente, después de realizar todas las correcciones necesarias y asegurarse de que la versión RC sea sólida, se lanza oficialmente la versión estable (por ejemplo, "4.0.0").
