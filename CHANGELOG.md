@@ -83,3 +83,19 @@ Mejoras
 Correcciones de errores
 
 - Se movie el esquema de colores error al usarlo.
+
+### [Versión Demo-0.3.4] - 4/9/23
+
+Cambios principales
+
+- 
+
+Mejoras
+
+- Color para nombres de clases, se puso verde claro.
+- Color para nombres de variables, se puedo verde claro.
+
+
+Correcciones de errores
+
+- 

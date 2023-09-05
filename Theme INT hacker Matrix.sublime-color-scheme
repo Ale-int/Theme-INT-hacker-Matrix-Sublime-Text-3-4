@@ -11,8 +11,8 @@
         "string": "green",       // Color de las cadenas de texto
         "comment": "#777",         // Color de los comentarios
         "numericLiteral": "green",  // Color para los literales numéricos
-        "className": "green",        // Color para nombres de clases
-        "variableName": "green",   // Color para nombres de variables
+        "className": "#00ff00",        // Color para nombres de clases
+        "variableName": "#00ff00",   // Color para nombres de variables
         "objectName": "green",      // Color para nombres de objetos
         "operator": "green",        // Color para los operadores
         "preprocessorDirective": "green", // Color para las directivas del preprocesador
