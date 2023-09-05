@@ -113,3 +113,17 @@ Mejoras
 Correcciones de errores
 
 - 
+
+### [Versión Demo-0.4.5] - 5/9/23
+
+Cambios principales
+
+- 
+
+Mejoras
+
+- 
+
+Correcciones de errores
+
+- Los archivos .md, se puso la ruta correcta.

@@ -7,8 +7,8 @@
 
 1. Abre Sublime Text.
 2. Preferences > Browse Packages (Preferencias > Explorar paquetes).
-3. Ve a la carpeta "Packages/".
-4. Pega la carpeta del tema.
+3. Ve a la carpeta "Packages/User/".
+4. Pegamos el archivo: Theme INT hacker Matrix.sublime-color-scheme
 
 ## Cómo utilizar 💡
 
