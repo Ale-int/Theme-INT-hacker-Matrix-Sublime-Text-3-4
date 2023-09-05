@@ -58,7 +58,8 @@
         {
             // Regla para comentarios
             "scope": "comment",
-            "foreground": "var(comment)"
+            "foreground": "var(comment)",
+            "font_style": "italic"
         },
         {
             "scope": "constant.numeric", // Alcance para literales numéricos
@@ -116,6 +117,6 @@
         {
             "scope": "text.html", // Alcance para el contenido de las etiquetas HTML
             "foreground": "var(textContent)" // Aplicar el color al contenido de las etiquetas HTML
-        }   
+        },   
     ]
 }
