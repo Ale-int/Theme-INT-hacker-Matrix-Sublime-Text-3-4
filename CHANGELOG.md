@@ -127,3 +127,32 @@ Mejoras
 Correcciones de errores
 
 - Los archivos .md, se puso la ruta correcta.
+
+### [Versión Demo-0.4.6] - 10/9/23
+
+Cambios principales
+
+- 
+
+Mejoras
+
+- 
+
+Correcciones de errores
+
+- Se actualizo la lista de commist, en CREDITS.md
+
+### [Versión Demo-0.4.7] - 11/9/23
+
+Cambios principales
+
+- 
+
+Mejoras
+
+- 
+
+Correcciones de errores
+
+- Se actualiza el package-metadata.json
+- Se corrige el error en CHANGELOG.md, no se guardo la versión Demo-0.4.6.
