@@ -156,3 +156,17 @@ Correcciones de errores
 
 - Se actualiza el package-metadata.json
 - Se corrige el error en CHANGELOG.md, no se guardo la versión Demo-0.4.6.
+
+### [Versión Demo-0.5.7] - 27/9/23
+
+Cambios principales
+
+- 
+
+Mejoras
+
+- Mejoras en el color, de las letras.
+
+Correcciones de errores
+
+-

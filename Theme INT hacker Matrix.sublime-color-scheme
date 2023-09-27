@@ -6,25 +6,25 @@
     // Definición de variables para colores
     "variables": {
         "background": "black",    // Fondo general
-        "text": "#00ff00",        // Color del texto normal
-        "keyword": "#00ff00",         // Color de las palabras clave
+        "text": "#1BAD22",        // Color del texto normal
+        "keyword": "#1BAD22",         // Color de las palabras clave
         "string": "green",       // Color de las cadenas de texto
         "comment": "#777",         // Color de los comentarios
         "numericLiteral": "green",  // Color para los literales numéricos
-        "className": "#00ff00",        // Color para nombres de clases
-        "variableName": "#00ff00",   // Color para nombres de variables
+        "className": "#1BAD22",        // Color para nombres de clases
+        "variableName": "#1BAD22",   // Color para nombres de variables
         "objectName": "green",      // Color para nombres de objetos
         "operator": "green",        // Color para los operadores
         "preprocessorDirective": "green", // Color para las directivas del preprocesador
-        "codeDelimiters": "#00ff00", // Color para la agrupación de código
+        "codeDelimiters": "#1BAD22", // Color para la agrupación de código
         "errorHighlight": "red",      // Color para resaltar errores
         "warningHighlight": "red",  // Color para resaltar advertencias
-        "customFunction": "#00ff00", // Color para las funciones personalizadas
+        "customFunction": "#1BAD22", // Color para las funciones personalizadas
         // HTML
         "tag": "green", // Color para etiquetas HTML
         "attribute": "green", // Color para atributos
         "attributeValue": "green", // Color para valores de atributos
-        "textContent": "#00ff00" // Color para el contenido de las etiquetas HTML
+        "textContent": "#1BAD22" // Color para el contenido de las etiquetas HTML
     },
     
     // Configuración global de colores
